@@ -1,0 +1,237 @@
+{
+  "id": "svs-5196-dyamond-co2",
+  "title": "DYAMOND Global Carbon Dioxide",
+  "description": "Carbon dioxide concentrations from the GEOS model moving through the atmosphere from January to March 2020, seen on an orbiting globe.",
+  "highlights": [
+    "Bright CO₂ plumes over industrial and fire regions",
+    "Rotation carries plumes from one ear to the other",
+    "Changing coverage changes tempo"
+  ],
+  "svs": {
+    "id": 5196,
+    "pageUrl": "https://svs.gsfc.nasa.gov/5196/",
+    "pageTitle": "DYAMOND Global Carbon Dioxide",
+    "releaseDate": "2024-07-22",
+    "sourceFile": "dyamondPointCloud_12-1-2023b_dyamond_co2_anim_globe_orbit_1080p30_h265.mp4",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005196/dyamondPointCloud_12-1-2023b_dyamond_co2_anim_globe_orbit_1080p30_h265.mp4",
+    "sourceWidth": 1920,
+    "sourceHeight": 1080,
+    "sourceDuration": 39.2,
+    "credits": [
+      "Visualizer: AJ Christensen (SSAI)",
+      "Visualizer: Greg Shirah (NASA/GSFC)",
+      "Visualizer: Helen-Nicole Kostis (USRA)",
+      "Visualizer: Mark SubbaRao (NASA/GSFC)",
+      "Technical support: Laurence Schuler (ADNET Systems, Inc.)",
+      "Technical support: Ian Jones (ADNET Systems, Inc.)",
+      "Scientist: Lesley Ott (NASA/GSFC)",
+      "Scientist: Brad Weir (Morgan State University)",
+      "Scientist: William Putman (NASA/GSFC)",
+      "Scientist: Tomohiro Oda (USRA/EfSI)"
+    ],
+    "datasets": [
+      "DYAMOND"
+    ]
+  },
+  "attribution": "NASA's Scientific Visualization Studio: AJ Christensen (SSAI), Greg Shirah (NASA/GSFC), Helen-Nicole Kostis (USRA)",
+  "projection": null,
+  "georeferenced": false,
+  "legend": {
+    "image": "legend.jpg",
+    "quantity": "CO₂ concentration",
+    "units": "ppm",
+    "categorical": false,
+    "svsNote": "Colour bar shows range, colour and opacity transfer functions.",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005196/dyamondCbar_6-27-2024a_print.jpg",
+    "notReadReason": "Shown for reference only. This bar also encodes opacity, so colours in the frame cannot be turned back into ppm values reliably."
+  },
+  "width": 1280,
+  "height": 720,
+  "frames": [
+    {
+      "file": "frame-01.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:00.9",
+      "timeLabel": "video 0:00.9",
+      "videoTime": 0.943
+    },
+    {
+      "file": "frame-02.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:02.2",
+      "timeLabel": "video 0:02.2",
+      "videoTime": 2.23
+    },
+    {
+      "file": "frame-03.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:03.5",
+      "timeLabel": "video 0:03.5",
+      "videoTime": 3.517
+    },
+    {
+      "file": "frame-04.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:04.8",
+      "timeLabel": "video 0:04.8",
+      "videoTime": 4.803
+    },
+    {
+      "file": "frame-05.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:06.1",
+      "timeLabel": "video 0:06.1",
+      "videoTime": 6.09
+    },
+    {
+      "file": "frame-06.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:07.4",
+      "timeLabel": "video 0:07.4",
+      "videoTime": 7.377
+    },
+    {
+      "file": "frame-07.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:08.7",
+      "timeLabel": "video 0:08.7",
+      "videoTime": 8.663
+    },
+    {
+      "file": "frame-08.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:10.0",
+      "timeLabel": "video 0:10.0",
+      "videoTime": 9.95
+    },
+    {
+      "file": "frame-09.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:11.2",
+      "timeLabel": "video 0:11.2",
+      "videoTime": 11.237
+    },
+    {
+      "file": "frame-10.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:12.5",
+      "timeLabel": "video 0:12.5",
+      "videoTime": 12.523
+    },
+    {
+      "file": "frame-11.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:13.8",
+      "timeLabel": "video 0:13.8",
+      "videoTime": 13.81
+    },
+    {
+      "file": "frame-12.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:15.1",
+      "timeLabel": "video 0:15.1",
+      "videoTime": 15.097
+    },
+    {
+      "file": "frame-13.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:16.4",
+      "timeLabel": "video 0:16.4",
+      "videoTime": 16.383
+    },
+    {
+      "file": "frame-14.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:17.7",
+      "timeLabel": "video 0:17.7",
+      "videoTime": 17.67
+    },
+    {
+      "file": "frame-15.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:19.0",
+      "timeLabel": "video 0:19.0",
+      "videoTime": 18.957
+    },
+    {
+      "file": "frame-16.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:20.2",
+      "timeLabel": "video 0:20.2",
+      "videoTime": 20.243
+    },
+    {
+      "file": "frame-17.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:21.5",
+      "timeLabel": "video 0:21.5",
+      "videoTime": 21.53
+    },
+    {
+      "file": "frame-18.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:22.8",
+      "timeLabel": "video 0:22.8",
+      "videoTime": 22.817
+    },
+    {
+      "file": "frame-19.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:24.1",
+      "timeLabel": "video 0:24.1",
+      "videoTime": 24.103
+    },
+    {
+      "file": "frame-20.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:25.4",
+      "timeLabel": "video 0:25.4",
+      "videoTime": 25.39
+    },
+    {
+      "file": "frame-21.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:26.7",
+      "timeLabel": "video 0:26.7",
+      "videoTime": 26.677
+    },
+    {
+      "file": "frame-22.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:28.0",
+      "timeLabel": "video 0:28.0",
+      "videoTime": 27.963
+    },
+    {
+      "file": "frame-23.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:29.3",
+      "timeLabel": "video 0:29.3",
+      "videoTime": 29.25
+    },
+    {
+      "file": "frame-24.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:30.5",
+      "timeLabel": "video 0:30.5",
+      "videoTime": 30.537
+    },
+    {
+      "file": "frame-25.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:31.8",
+      "timeLabel": "video 0:31.8",
+      "videoTime": 31.823
+    },
+    {
+      "file": "frame-26.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:33.1",
+      "timeLabel": "video 0:33.1",
+      "videoTime": 33.11
+    },
+    {
+      "file": "frame-27.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:34.4",
+      "timeLabel": "video 0:34.4",
+      "videoTime": 34.397
+    },
+    {
+      "file": "frame-28.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:35.7",
+      "timeLabel": "video 0:35.7",
+      "videoTime": 35.683
+    },
+    {
+      "file": "frame-29.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:37.0",
+      "timeLabel": "video 0:37.0",
+      "videoTime": 36.97
+    },
+    {
+      "file": "frame-30.jpg",
+      "label": "DYAMOND Global Carbon Dioxide · 0:38.3",
+      "timeLabel": "video 0:38.3",
+      "videoTime": 38.257
+    }
+  ],
+  "extracted": {
+    "at": "2026-11-13T23:37:18.142Z",
+    "count": 30,
+    "note": "Evenly spaced frames, downscaled; JPEG."
+  }
+}

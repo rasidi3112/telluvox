@@ -1,0 +1,273 @@
+{
+  "id": "svs-5425-perpetual-ocean-2",
+  "title": "Perpetual Ocean 2: Western Boundary Currents (temperature)",
+  "description": "ECCO ocean currents on a rotating globe that zooms into the Kuroshio, Agulhas, Brazil and Gulf Stream currents, coloured by water temperature.",
+  "highlights": [
+    "Bright warm current cores raise the pitch",
+    "Close-ups of swirling eddies thicken the texture",
+    "Camera moves sweep the stereo field"
+  ],
+  "svs": {
+    "id": 5425,
+    "pageUrl": "https://svs.gsfc.nasa.gov/5425/",
+    "pageTitle": "Perpetual Ocean 2: Western Boundary Currents",
+    "releaseDate": "2025-02-27",
+    "sourceFile": "perpetual_ocean2_CLOSE_096_temperature_1080p30.mp4",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005425/perpetual_ocean2_CLOSE_096_temperature_1080p30.mp4",
+    "sourceWidth": 1920,
+    "sourceHeight": 1080,
+    "sourceDuration": 316.766667,
+    "credits": [
+      "Visualizer: Greg Shirah (NASA/GSFC)",
+      "Visualizer: Horace Mitchell (NASA/GSFC)",
+      "Technical support: Laurence Schuler (ADNET Systems, Inc.)",
+      "Technical support: Ian Jones (ADNET Systems, Inc.)",
+      "Scientist: Atousa Saberi (NASA/GSFC)",
+      "Scientist: Josh Willis (JPL)",
+      "Producer: Kathleen Gaeta (Advocates in Manpower Management, Inc.)"
+    ],
+    "datasets": [
+      "Blue Marble: Next Generation",
+      "ECCO2 High Resolution Ocean and Sea Ice Model",
+      "ETOPO-30"
+    ]
+  },
+  "attribution": "NASA's Scientific Visualization Studio: Greg Shirah (NASA/GSFC), Horace Mitchell (NASA/GSFC), Laurence Schuler (ADNET Systems, Inc.)",
+  "projection": null,
+  "georeferenced": false,
+  "legend": {
+    "image": "legend.jpg",
+    "quantity": "Ocean temperature",
+    "units": "°C",
+    "min": 0,
+    "max": 25,
+    "svsNote": "Colours range from blue to purple to yellow, 0 to 25 °C.",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005425/perpetual_ocean2_CLOSE_101_cbar_temperature_print.jpg",
+    "notReadReason": "Shown for reference only. The bar’s cold end (dark navy) has the same colours as the ocean imagery behind the flow lines, so reading values automatically would report misleadingly cold temperatures."
+  },
+  "width": 1280,
+  "height": 720,
+  "frames": [
+    {
+      "file": "frame-01.jpg",
+      "label": "Perpetual Ocean 2 · 0:06.3",
+      "timeLabel": "video 0:06.3",
+      "videoTime": 6.333
+    },
+    {
+      "file": "frame-02.jpg",
+      "label": "Perpetual Ocean 2 · 0:15.0",
+      "timeLabel": "video 0:15.0",
+      "videoTime": 15
+    },
+    {
+      "file": "frame-03.jpg",
+      "label": "Perpetual Ocean 2 · 0:23.7",
+      "timeLabel": "video 0:23.7",
+      "videoTime": 23.667
+    },
+    {
+      "file": "frame-04.jpg",
+      "label": "Perpetual Ocean 2 · 0:32.3",
+      "timeLabel": "video 0:32.3",
+      "videoTime": 32.333
+    },
+    {
+      "file": "frame-05.jpg",
+      "label": "Perpetual Ocean 2 · 0:41.0",
+      "timeLabel": "video 0:41.0",
+      "videoTime": 41
+    },
+    {
+      "file": "frame-06.jpg",
+      "label": "Perpetual Ocean 2 · 0:49.7",
+      "timeLabel": "video 0:49.7",
+      "videoTime": 49.667
+    },
+    {
+      "file": "frame-07.jpg",
+      "label": "Perpetual Ocean 2 · 0:58.3",
+      "timeLabel": "video 0:58.3",
+      "videoTime": 58.333
+    },
+    {
+      "file": "frame-08.jpg",
+      "label": "Perpetual Ocean 2 · 1:07.0",
+      "timeLabel": "video 1:07.0",
+      "videoTime": 67
+    },
+    {
+      "file": "frame-09.jpg",
+      "label": "Perpetual Ocean 2 · 1:15.7",
+      "timeLabel": "video 1:15.7",
+      "videoTime": 75.667
+    },
+    {
+      "file": "frame-10.jpg",
+      "label": "Perpetual Ocean 2 · 1:24.3",
+      "timeLabel": "video 1:24.3",
+      "videoTime": 84.333
+    },
+    {
+      "file": "frame-11.jpg",
+      "label": "Perpetual Ocean 2 · 1:33.0",
+      "timeLabel": "video 1:33.0",
+      "videoTime": 93
+    },
+    {
+      "file": "frame-12.jpg",
+      "label": "Perpetual Ocean 2 · 1:41.7",
+      "timeLabel": "video 1:41.7",
+      "videoTime": 101.667
+    },
+    {
+      "file": "frame-13.jpg",
+      "label": "Perpetual Ocean 2 · 1:50.3",
+      "timeLabel": "video 1:50.3",
+      "videoTime": 110.333
+    },
+    {
+      "file": "frame-14.jpg",
+      "label": "Perpetual Ocean 2 · 1:59.0",
+      "timeLabel": "video 1:59.0",
+      "videoTime": 119
+    },
+    {
+      "file": "frame-15.jpg",
+      "label": "Perpetual Ocean 2 · 2:07.7",
+      "timeLabel": "video 2:07.7",
+      "videoTime": 127.667
+    },
+    {
+      "file": "frame-16.jpg",
+      "label": "Perpetual Ocean 2 · 2:16.3",
+      "timeLabel": "video 2:16.3",
+      "videoTime": 136.333
+    },
+    {
+      "file": "frame-17.jpg",
+      "label": "Perpetual Ocean 2 · 2:25.0",
+      "timeLabel": "video 2:25.0",
+      "videoTime": 145
+    },
+    {
+      "file": "frame-18.jpg",
+      "label": "Perpetual Ocean 2 · 2:33.7",
+      "timeLabel": "video 2:33.7",
+      "videoTime": 153.667
+    },
+    {
+      "file": "frame-19.jpg",
+      "label": "Perpetual Ocean 2 · 2:42.3",
+      "timeLabel": "video 2:42.3",
+      "videoTime": 162.333
+    },
+    {
+      "file": "frame-20.jpg",
+      "label": "Perpetual Ocean 2 · 2:51.0",
+      "timeLabel": "video 2:51.0",
+      "videoTime": 171
+    },
+    {
+      "file": "frame-21.jpg",
+      "label": "Perpetual Ocean 2 · 2:59.7",
+      "timeLabel": "video 2:59.7",
+      "videoTime": 179.667
+    },
+    {
+      "file": "frame-22.jpg",
+      "label": "Perpetual Ocean 2 · 3:08.3",
+      "timeLabel": "video 3:08.3",
+      "videoTime": 188.333
+    },
+    {
+      "file": "frame-23.jpg",
+      "label": "Perpetual Ocean 2 · 3:17.0",
+      "timeLabel": "video 3:17.0",
+      "videoTime": 197
+    },
+    {
+      "file": "frame-24.jpg",
+      "label": "Perpetual Ocean 2 · 3:25.7",
+      "timeLabel": "video 3:25.7",
+      "videoTime": 205.667
+    },
+    {
+      "file": "frame-25.jpg",
+      "label": "Perpetual Ocean 2 · 3:34.3",
+      "timeLabel": "video 3:34.3",
+      "videoTime": 214.333
+    },
+    {
+      "file": "frame-26.jpg",
+      "label": "Perpetual Ocean 2 · 3:43.0",
+      "timeLabel": "video 3:43.0",
+      "videoTime": 223
+    },
+    {
+      "file": "frame-27.jpg",
+      "label": "Perpetual Ocean 2 · 3:51.7",
+      "timeLabel": "video 3:51.7",
+      "videoTime": 231.667
+    },
+    {
+      "file": "frame-28.jpg",
+      "label": "Perpetual Ocean 2 · 4:00.3",
+      "timeLabel": "video 4:00.3",
+      "videoTime": 240.333
+    },
+    {
+      "file": "frame-29.jpg",
+      "label": "Perpetual Ocean 2 · 4:09.0",
+      "timeLabel": "video 4:09.0",
+      "videoTime": 249
+    },
+    {
+      "file": "frame-30.jpg",
+      "label": "Perpetual Ocean 2 · 4:17.7",
+      "timeLabel": "video 4:17.7",
+      "videoTime": 257.667
+    },
+    {
+      "file": "frame-31.jpg",
+      "label": "Perpetual Ocean 2 · 4:26.3",
+      "timeLabel": "video 4:26.3",
+      "videoTime": 266.333
+    },
+    {
+      "file": "frame-32.jpg",
+      "label": "Perpetual Ocean 2 · 4:35.0",
+      "timeLabel": "video 4:35.0",
+      "videoTime": 275
+    },
+    {
+      "file": "frame-33.jpg",
+      "label": "Perpetual Ocean 2 · 4:43.7",
+      "timeLabel": "video 4:43.7",
+      "videoTime": 283.667
+    },
+    {
+      "file": "frame-34.jpg",
+      "label": "Perpetual Ocean 2 · 4:52.3",
+      "timeLabel": "video 4:52.3",
+      "videoTime": 292.333
+    },
+    {
+      "file": "frame-35.jpg",
+      "label": "Perpetual Ocean 2 · 5:01.0",
+      "timeLabel": "video 5:01.0",
+      "videoTime": 301
+    },
+    {
+      "file": "frame-36.jpg",
+      "label": "Perpetual Ocean 2 · 5:09.7",
+      "timeLabel": "video 5:09.7",
+      "videoTime": 309.667
+    }
+  ],
+  "extracted": {
+    "at": "2026-11-13T23:40:19.613Z",
+    "count": 36,
+    "note": "Evenly spaced frames, downscaled; JPEG."
+  }
+}

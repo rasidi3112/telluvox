@@ -1,0 +1,32 @@
+{
+  "sequences": [
+    {
+      "id": "telluvox-synthetic-drifting-fields",
+      "dir": "drifting-fields",
+      "title": "Drifting Fields",
+      "frames": 24,
+      "georeferenced": false
+    },
+    {
+      "id": "telluvox-synthetic-banded-flow",
+      "dir": "banded-flow",
+      "title": "Banded Flow",
+      "frames": 24,
+      "georeferenced": false
+    },
+    {
+      "id": "telluvox-synthetic-bloom",
+      "dir": "bloom",
+      "title": "Bloom",
+      "frames": 20,
+      "georeferenced": false
+    },
+    {
+      "id": "telluvox-synthetic-global-test-field",
+      "dir": "global-test-field",
+      "title": "Global Test Field",
+      "frames": 24,
+      "georeferenced": true
+    }
+  ]
+}

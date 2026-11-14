@@ -1,0 +1,297 @@
+{
+  "note": "Official resources listed on the NASA Space Apps 2026 'Earth Information Jukebox' Resources tab. Media from NASA's Scientific Visualization Studio (svs.gsfc.nasa.gov). Paths are relative to https://svs.gsfc.nasa.gov/vis/a000000/. 'projection' is only a claim to be verified; 'georeferenced' is set by verification (see README).",
+  "entries": [
+    {
+      "slug": "sea-surface-currents",
+      "svsId": 3912,
+      "title": "Global Sea Surface Currents and Temperature",
+      "summary": "Ocean surface currents from the ECCO2 model on a flat global map, with each flow line coloured by sea surface temperature.",
+      "listenFor": [
+        "Warm equatorial bands lift the melody",
+        "Swirling eddies add texture and notes",
+        "A global map: drapes onto the globe"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a003900/a003912/ecco2_sst_flow.mp4",
+        "start": 0.5,
+        "end": 66.2,
+        "count": 30,
+        "width": 2048
+      },
+      "projection": "equirectangular",
+      "georeferenced": true,
+      "legend": {
+        "image": "a003900/a003912/sst_ecco2_cbar.png",
+        "quantity": "Sea surface temperature",
+        "units": "°C",
+        "min": 0,
+        "max": 32,
+        "svsNote": "Blue is 0 °C, green 10–20 °C, yellow about 25 °C, red 32 °C.",
+        "strip": {
+          "x0": 0.048,
+          "y0": 0.32,
+          "x1": 0.939,
+          "y1": 0.7
+        },
+        "match": "chroma"
+      },
+      "projectionCheck": {
+        "method": "IoU of frame land (grey) vs Natural Earth 1:50m land at 360×180, all longitude offsets −180…179° and N–S flip, rows ±75° lat",
+        "frames": [
+          "frame-01",
+          "frame-15",
+          "frame-30"
+        ],
+        "iouAtZero": [
+          0.941,
+          0.942,
+          0.943
+        ],
+        "bestOffsetDeg": 0,
+        "flipped": false,
+        "date": "2026-11-14"
+      }
+    },
+    {
+      "slug": "night-lights-change",
+      "svsId": 5313,
+      "title": "Change in Night Lights, 2012–2023 (EIC Version)",
+      "summary": "NASA Black Marble night lights on a wide flat map: yearly averages from 2012 to 2023, then the change between 2012 and 2023 (purple = more light, orange = less light).",
+      "listenFor": [
+        "Brilliant cities against dark land → strong contrast and loudness",
+        "The switch to the change map shifts harmony",
+        "High contrast drives tempo and density"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a005300/a005313/nightlights_flat_series_and_change_wZooms_13_EIC_2160p30_h265.mp4",
+        "start": 0.3,
+        "end": 21.5,
+        "count": 24,
+        "width": 1920
+      },
+      "projection": null,
+      "georeferenced": false,
+      "legend": null
+    },
+    {
+      "slug": "geos-aerosols",
+      "svsId": 5669,
+      "title": "GEOS Aerosols (2025)",
+      "summary": "A single moment (19 Aug 2025, 20:00 UTC) of smoke, dust, sea salt and other particles from the GEOS model, each type in its own colour.",
+      "listenFor": [
+        "Each aerosol colour becomes its own pitch",
+        "Explore the image by touch to hear each region",
+        "A still image: the phrase loops"
+      ],
+      "source": {
+        "type": "image",
+        "path": "a005600/a005669/Aerosols_2025-08-19T20_00_00_1920x1080.png",
+        "width": 1600
+      },
+      "projection": null,
+      "georeferenced": false,
+      "legend": {
+        "image": "a005600/a005669/Aerosols_cbar.png",
+        "quantity": "Aerosol type",
+        "units": null,
+        "categorical": true,
+        "svsNote": "Colour indicates the type of aerosol particle."
+      }
+    },
+    {
+      "slug": "air-quality",
+      "svsId": 5533,
+      "title": "Air Quality Model Runs (EIC Hyperwall)",
+      "summary": "GEOS-CF model concentrations of carbon monoxide, fine particulate matter (PM2.5), ozone and nitrogen dioxide, shown side by side as moving panels.",
+      "listenFor": [
+        "Several panels, several colour families → richer chords",
+        "Plumes moving across panels pan the sound",
+        "Changes between frames add rhythm"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a005500/a005533/EIC_AirQuality_Preview_3840x1080.mp4",
+        "start": 0.5,
+        "end": 74.5,
+        "count": 30,
+        "width": 1920
+      },
+      "projection": null,
+      "georeferenced": false,
+      "legend": null
+    },
+    {
+      "slug": "perpetual-ocean-2",
+      "svsId": 5425,
+      "title": "Perpetual Ocean 2: Western Boundary Currents (temperature)",
+      "summary": "ECCO ocean currents on a rotating globe that zooms into the Kuroshio, Agulhas, Brazil and Gulf Stream currents, coloured by water temperature.",
+      "listenFor": [
+        "Bright warm current cores raise the pitch",
+        "Close-ups of swirling eddies thicken the texture",
+        "Camera moves sweep the stereo field"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a005400/a005425/perpetual_ocean2_CLOSE_096_temperature_1080p30.mp4",
+        "start": 2,
+        "end": 314,
+        "count": 36,
+        "width": 1280
+      },
+      "projection": null,
+      "georeferenced": false,
+      "legend": {
+        "image": "a005400/a005425/perpetual_ocean2_CLOSE_101_cbar_temperature_print.jpg",
+        "quantity": "Ocean temperature",
+        "units": "°C",
+        "min": 0,
+        "max": 25,
+        "svsNote": "Colours range from blue to purple to yellow, 0 to 25 °C.",
+        "notReadReason": "Shown for reference only. The bar’s cold end (dark navy) has the same colours as the ocean imagery behind the flow lines, so reading values automatically would report misleadingly cold temperatures."
+      }
+    },
+    {
+      "slug": "dyamond-co2",
+      "svsId": 5196,
+      "title": "DYAMOND Global Carbon Dioxide",
+      "summary": "Carbon dioxide concentrations from the GEOS model moving through the atmosphere from January to March 2020, seen on an orbiting globe.",
+      "listenFor": [
+        "Bright CO₂ plumes over industrial and fire regions",
+        "Rotation carries plumes from one ear to the other",
+        "Changing coverage changes tempo"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a005100/a005196/dyamondPointCloud_12-1-2023b_dyamond_co2_anim_globe_orbit_1080p30_h265.mp4",
+        "start": 0.3,
+        "end": 38.9,
+        "count": 30,
+        "width": 1280
+      },
+      "projection": null,
+      "georeferenced": false,
+      "legend": {
+        "image": "a005100/a005196/dyamondCbar_6-27-2024a_print.jpg",
+        "quantity": "CO₂ concentration",
+        "units": "ppm",
+        "categorical": false,
+        "svsNote": "Colour bar shows range, colour and opacity transfer functions.",
+        "notReadReason": "Shown for reference only. This bar also encodes opacity, so colours in the frame cannot be turned back into ppm values reliably."
+      }
+    },
+    {
+      "slug": "iss-lightning",
+      "svsId": 5011,
+      "title": "Lightning Events Detected from the ISS, 2017–2023",
+      "summary": "Lightning detected by the Lightning Imaging Sensor on the International Space Station, shown with a rolling 10-day window on a flat global map (Science On a Sphere format).",
+      "listenFor": [
+        "Lightning flashes become percussive ticks",
+        "Seasonal shifts north and south move the melody",
+        "A global map: drapes onto the globe"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a005000/a005011/iss_lightning_sos_yearly_07312023_2048p60.mp4",
+        "start": 0.5,
+        "end": 99.5,
+        "count": 36,
+        "width": 2048
+      },
+      "projection": "equirectangular",
+      "georeferenced": true,
+      "legend": null,
+      "projectionCheck": {
+        "method": "IoU of frame land (low-saturation pixels above the luminance quantile matching true land share) vs Natural Earth 1:50m land at 360×180, all longitude offsets and N–S flip, rows ±75° lat; lightning pixels ignored",
+        "frames": [
+          "frame-01",
+          "frame-18",
+          "frame-36"
+        ],
+        "iouAtZero": [
+          0.57,
+          0.511,
+          0.559
+        ],
+        "bestOutside10Deg": [
+          0.374,
+          0.354,
+          0.369
+        ],
+        "bestFlipped": [
+          0.112,
+          0.125,
+          0.118
+        ],
+        "bestOffsetDeg": 0,
+        "flipped": false,
+        "date": "2026-11-14"
+      }
+    },
+    {
+      "slug": "atmospheric-river",
+      "svsId": 4960,
+      "title": "A 3D View of an Atmospheric River",
+      "summary": "An atmospheric river from NASA’s MERRA-2 reanalysis carrying tropical moisture toward the North American west coast, followed in 3D.",
+      "listenFor": [
+        "Dense moisture bands give legato phrases",
+        "Camera dives change the shapes and voices",
+        "Labels and land briefly shift the palette"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a004900/a004960/atmos_river_HD.mp4",
+        "start": 3,
+        "end": 288,
+        "count": 36,
+        "width": 1280
+      },
+      "projection": null,
+      "georeferenced": false,
+      "legend": {
+        "image": "a004900/a004960/atmo_rivers_cbars01_print.jpg",
+        "quantity": "Surface and atmosphere layers",
+        "units": null,
+        "categorical": true,
+        "svsNote": "Several colour tables: snow, precipitation, moisture and ocean layers."
+      }
+    },
+    {
+      "slug": "gedi-forest-height",
+      "svsId": 4950,
+      "title": "GEDI Forest Height",
+      "summary": "Global forest canopy height measured by the GEDI laser instrument on the International Space Station, on a rotating globe.",
+      "listenFor": [
+        "Tall forests (bright green to white) raise the pitch",
+        "Rotation alternates land and ocean: density rises and falls",
+        "Continents entering the view add voices"
+      ],
+      "source": {
+        "type": "video",
+        "path": "a004900/a004950/GEDI_global_w_colorbar_1080p60.mp4",
+        "start": 0.5,
+        "end": 51,
+        "count": 30,
+        "width": 1280
+      },
+      "projection": null,
+      "georeferenced": false,
+      "legend": {
+        "image": "a004900/a004950/GEDI_colorbar_0to50_01_print.jpg",
+        "quantity": "Forest canopy height",
+        "units": "m",
+        "min": 0,
+        "max": 50,
+        "svsNote": "Brown and dark green: shorter vegetation; bright green and white: taller.",
+        "strip": {
+          "x0": 0.052,
+          "y0": 0.872,
+          "x1": 0.472,
+          "y1": 0.903
+        },
+        "match": "rgb"
+      }
+    }
+  ]
+}

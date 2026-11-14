@@ -1,0 +1,241 @@
+{
+  "id": "svs-4950-gedi-forest-height",
+  "title": "GEDI Forest Height",
+  "description": "Global forest canopy height measured by the GEDI laser instrument on the International Space Station, on a rotating globe.",
+  "highlights": [
+    "Tall forests (bright green to white) raise the pitch",
+    "Rotation alternates land and ocean: density rises and falls",
+    "Continents entering the view add voices"
+  ],
+  "svs": {
+    "id": 4950,
+    "pageUrl": "https://svs.gsfc.nasa.gov/4950/",
+    "pageTitle": "GEDI Forest Height",
+    "releaseDate": "2021-10-29",
+    "sourceFile": "GEDI_global_w_colorbar_1080p60.mp4",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004950/GEDI_global_w_colorbar_1080p60.mp4",
+    "sourceWidth": 1920,
+    "sourceHeight": 1080,
+    "sourceDuration": 51.483333,
+    "credits": [
+      "Visualizer: Kel Elkins (USRA)",
+      "Visualizer: Horace Mitchell (NASA/GSFC)",
+      "Visualizer: Greg Shirah (NASA/GSFC)",
+      "Technical support: Laurence Schuler (ADNET Systems, Inc.)",
+      "Technical support: Ian Jones (ADNET Systems, Inc.)",
+      "Scientist: Temilola Fatoyinbo (NASA/GSFC)",
+      "Scientist: Atticus Stovall (University of Maryland)"
+    ],
+    "datasets": [
+      "Relative Height"
+    ]
+  },
+  "attribution": "NASA's Scientific Visualization Studio: Kel Elkins (USRA), Horace Mitchell (NASA/GSFC), Greg Shirah (NASA/GSFC)",
+  "projection": null,
+  "georeferenced": false,
+  "legend": {
+    "image": "legend.jpg",
+    "quantity": "Forest canopy height",
+    "units": "m",
+    "min": 0,
+    "max": 50,
+    "svsNote": "Brown and dark green: shorter vegetation; bright green and white: taller.",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004950/GEDI_colorbar_0to50_01_print.jpg",
+    "strip": {
+      "x0": 0.052,
+      "y0": 0.872,
+      "x1": 0.472,
+      "y1": 0.903
+    },
+    "match": "rgb"
+  },
+  "width": 1280,
+  "height": 720,
+  "frames": [
+    {
+      "file": "frame-01.jpg",
+      "label": "GEDI Forest Height · 0:01.3",
+      "timeLabel": "video 0:01.3",
+      "videoTime": 1.342
+    },
+    {
+      "file": "frame-02.jpg",
+      "label": "GEDI Forest Height · 0:03.0",
+      "timeLabel": "video 0:03.0",
+      "videoTime": 3.025
+    },
+    {
+      "file": "frame-03.jpg",
+      "label": "GEDI Forest Height · 0:04.7",
+      "timeLabel": "video 0:04.7",
+      "videoTime": 4.708
+    },
+    {
+      "file": "frame-04.jpg",
+      "label": "GEDI Forest Height · 0:06.4",
+      "timeLabel": "video 0:06.4",
+      "videoTime": 6.392
+    },
+    {
+      "file": "frame-05.jpg",
+      "label": "GEDI Forest Height · 0:08.1",
+      "timeLabel": "video 0:08.1",
+      "videoTime": 8.075
+    },
+    {
+      "file": "frame-06.jpg",
+      "label": "GEDI Forest Height · 0:09.8",
+      "timeLabel": "video 0:09.8",
+      "videoTime": 9.758
+    },
+    {
+      "file": "frame-07.jpg",
+      "label": "GEDI Forest Height · 0:11.4",
+      "timeLabel": "video 0:11.4",
+      "videoTime": 11.442
+    },
+    {
+      "file": "frame-08.jpg",
+      "label": "GEDI Forest Height · 0:13.1",
+      "timeLabel": "video 0:13.1",
+      "videoTime": 13.125
+    },
+    {
+      "file": "frame-09.jpg",
+      "label": "GEDI Forest Height · 0:14.8",
+      "timeLabel": "video 0:14.8",
+      "videoTime": 14.808
+    },
+    {
+      "file": "frame-10.jpg",
+      "label": "GEDI Forest Height · 0:16.5",
+      "timeLabel": "video 0:16.5",
+      "videoTime": 16.492
+    },
+    {
+      "file": "frame-11.jpg",
+      "label": "GEDI Forest Height · 0:18.2",
+      "timeLabel": "video 0:18.2",
+      "videoTime": 18.175
+    },
+    {
+      "file": "frame-12.jpg",
+      "label": "GEDI Forest Height · 0:19.9",
+      "timeLabel": "video 0:19.9",
+      "videoTime": 19.858
+    },
+    {
+      "file": "frame-13.jpg",
+      "label": "GEDI Forest Height · 0:21.5",
+      "timeLabel": "video 0:21.5",
+      "videoTime": 21.542
+    },
+    {
+      "file": "frame-14.jpg",
+      "label": "GEDI Forest Height · 0:23.2",
+      "timeLabel": "video 0:23.2",
+      "videoTime": 23.225
+    },
+    {
+      "file": "frame-15.jpg",
+      "label": "GEDI Forest Height · 0:24.9",
+      "timeLabel": "video 0:24.9",
+      "videoTime": 24.908
+    },
+    {
+      "file": "frame-16.jpg",
+      "label": "GEDI Forest Height · 0:26.6",
+      "timeLabel": "video 0:26.6",
+      "videoTime": 26.592
+    },
+    {
+      "file": "frame-17.jpg",
+      "label": "GEDI Forest Height · 0:28.3",
+      "timeLabel": "video 0:28.3",
+      "videoTime": 28.275
+    },
+    {
+      "file": "frame-18.jpg",
+      "label": "GEDI Forest Height · 0:30.0",
+      "timeLabel": "video 0:30.0",
+      "videoTime": 29.958
+    },
+    {
+      "file": "frame-19.jpg",
+      "label": "GEDI Forest Height · 0:31.6",
+      "timeLabel": "video 0:31.6",
+      "videoTime": 31.642
+    },
+    {
+      "file": "frame-20.jpg",
+      "label": "GEDI Forest Height · 0:33.3",
+      "timeLabel": "video 0:33.3",
+      "videoTime": 33.325
+    },
+    {
+      "file": "frame-21.jpg",
+      "label": "GEDI Forest Height · 0:35.0",
+      "timeLabel": "video 0:35.0",
+      "videoTime": 35.008
+    },
+    {
+      "file": "frame-22.jpg",
+      "label": "GEDI Forest Height · 0:36.7",
+      "timeLabel": "video 0:36.7",
+      "videoTime": 36.692
+    },
+    {
+      "file": "frame-23.jpg",
+      "label": "GEDI Forest Height · 0:38.4",
+      "timeLabel": "video 0:38.4",
+      "videoTime": 38.375
+    },
+    {
+      "file": "frame-24.jpg",
+      "label": "GEDI Forest Height · 0:40.1",
+      "timeLabel": "video 0:40.1",
+      "videoTime": 40.058
+    },
+    {
+      "file": "frame-25.jpg",
+      "label": "GEDI Forest Height · 0:41.7",
+      "timeLabel": "video 0:41.7",
+      "videoTime": 41.742
+    },
+    {
+      "file": "frame-26.jpg",
+      "label": "GEDI Forest Height · 0:43.4",
+      "timeLabel": "video 0:43.4",
+      "videoTime": 43.425
+    },
+    {
+      "file": "frame-27.jpg",
+      "label": "GEDI Forest Height · 0:45.1",
+      "timeLabel": "video 0:45.1",
+      "videoTime": 45.108
+    },
+    {
+      "file": "frame-28.jpg",
+      "label": "GEDI Forest Height · 0:46.8",
+      "timeLabel": "video 0:46.8",
+      "videoTime": 46.792
+    },
+    {
+      "file": "frame-29.jpg",
+      "label": "GEDI Forest Height · 0:48.5",
+      "timeLabel": "video 0:48.5",
+      "videoTime": 48.475
+    },
+    {
+      "file": "frame-30.jpg",
+      "label": "GEDI Forest Height · 0:50.2",
+      "timeLabel": "video 0:50.2",
+      "videoTime": 50.158
+    }
+  ],
+  "extracted": {
+    "at": "2026-11-13T23:45:28.732Z",
+    "count": 30,
+    "note": "Evenly spaced frames, downscaled; JPEG."
+  }
+}

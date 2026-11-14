@@ -1,0 +1,86 @@
+{
+  "source": "NASA Space Apps 2026: Earth Information Jukebox resources",
+  "sequences": [
+    {
+      "id": "svs-3912-sea-surface-currents",
+      "dir": "sea-surface-currents",
+      "title": "Global Sea Surface Currents and Temperature",
+      "frames": 30,
+      "georeferenced": true,
+      "svsId": 3912,
+      "bytes": 14508279
+    },
+    {
+      "id": "svs-5313-night-lights-change",
+      "dir": "night-lights-change",
+      "title": "Change in Night Lights, 2012–2023 (EIC Version)",
+      "frames": 24,
+      "georeferenced": false,
+      "svsId": 5313,
+      "bytes": 712115
+    },
+    {
+      "id": "svs-5669-geos-aerosols",
+      "dir": "geos-aerosols",
+      "title": "GEOS Aerosols (2025)",
+      "frames": 1,
+      "georeferenced": false,
+      "svsId": 5669,
+      "bytes": 189228
+    },
+    {
+      "id": "svs-5533-air-quality",
+      "dir": "air-quality",
+      "title": "Air Quality Model Runs (EIC Hyperwall)",
+      "frames": 30,
+      "georeferenced": false,
+      "svsId": 5533,
+      "bytes": 2870619
+    },
+    {
+      "id": "svs-5425-perpetual-ocean-2",
+      "dir": "perpetual-ocean-2",
+      "title": "Perpetual Ocean 2: Western Boundary Currents (temperature)",
+      "frames": 36,
+      "georeferenced": false,
+      "svsId": 5425,
+      "bytes": 4648041
+    },
+    {
+      "id": "svs-5196-dyamond-co2",
+      "dir": "dyamond-co2",
+      "title": "DYAMOND Global Carbon Dioxide",
+      "frames": 30,
+      "georeferenced": false,
+      "svsId": 5196,
+      "bytes": 729026
+    },
+    {
+      "id": "svs-5011-iss-lightning",
+      "dir": "iss-lightning",
+      "title": "Lightning Events Detected from the ISS, 2017–2023",
+      "frames": 36,
+      "georeferenced": true,
+      "svsId": 5011,
+      "bytes": 3165915
+    },
+    {
+      "id": "svs-4960-atmospheric-river",
+      "dir": "atmospheric-river",
+      "title": "A 3D View of an Atmospheric River",
+      "frames": 36,
+      "georeferenced": false,
+      "svsId": 4960,
+      "bytes": 3128682
+    },
+    {
+      "id": "svs-4950-gedi-forest-height",
+      "dir": "gedi-forest-height",
+      "title": "GEDI Forest Height",
+      "frames": 30,
+      "georeferenced": false,
+      "svsId": 4950,
+      "bytes": 1101445
+    }
+  ]
+}

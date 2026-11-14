@@ -1,0 +1,288 @@
+{
+  "id": "svs-5011-iss-lightning",
+  "title": "Lightning Events Detected from the ISS, 2017–2023",
+  "description": "Lightning detected by the Lightning Imaging Sensor on the International Space Station, shown with a rolling 10-day window on a flat global map (Science On a Sphere format).",
+  "highlights": [
+    "Lightning flashes become percussive ticks",
+    "Seasonal shifts north and south move the melody",
+    "A global map: drapes onto the globe"
+  ],
+  "svs": {
+    "id": 5011,
+    "pageUrl": "https://svs.gsfc.nasa.gov/5011/",
+    "pageTitle": "Lightning Events Detected from the International Space Station (ISS) 2017-2023",
+    "releaseDate": "2023-10-19",
+    "sourceFile": "iss_lightning_sos_yearly_07312023_2048p60.mp4",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005011/iss_lightning_sos_yearly_07312023_2048p60.mp4",
+    "sourceWidth": 4096,
+    "sourceHeight": 2048,
+    "sourceDuration": 100.033333,
+    "credits": [
+      "Visualizer: Michala Garrison (SSAI)",
+      "Visualizer: Greg Shirah (NASA/GSFC)",
+      "Visualizer: Kel Elkins (USRA)",
+      "Visualizer: Alex Kekesi (Global Science and Technology, Inc.)"
+    ],
+    "datasets": [
+      "CPC (Climate Prediction Center) Cloud Composite",
+      "Gray Earth with Shaded Relief, Hypsography, and Flat Water",
+      "Quality Controlled Lightning Imaging Sensor (LIS) on International Space Station (ISS) Science Data V1",
+      "Land Cover Climate Modeling Grid (CMG)"
+    ]
+  },
+  "attribution": "NASA's Scientific Visualization Studio: Michala Garrison (SSAI), Greg Shirah (NASA/GSFC), Kel Elkins (USRA)",
+  "projection": "equirectangular",
+  "georeferenced": true,
+  "legend": null,
+  "width": 2048,
+  "height": 1024,
+  "frames": [
+    {
+      "file": "frame-01.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:01.9",
+      "timeLabel": "video 0:01.9",
+      "videoTime": 1.875
+    },
+    {
+      "file": "frame-02.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:04.6",
+      "timeLabel": "video 0:04.6",
+      "videoTime": 4.625
+    },
+    {
+      "file": "frame-03.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:07.4",
+      "timeLabel": "video 0:07.4",
+      "videoTime": 7.375
+    },
+    {
+      "file": "frame-04.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:10.1",
+      "timeLabel": "video 0:10.1",
+      "videoTime": 10.125
+    },
+    {
+      "file": "frame-05.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:12.9",
+      "timeLabel": "video 0:12.9",
+      "videoTime": 12.875
+    },
+    {
+      "file": "frame-06.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:15.6",
+      "timeLabel": "video 0:15.6",
+      "videoTime": 15.625
+    },
+    {
+      "file": "frame-07.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:18.4",
+      "timeLabel": "video 0:18.4",
+      "videoTime": 18.375
+    },
+    {
+      "file": "frame-08.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:21.1",
+      "timeLabel": "video 0:21.1",
+      "videoTime": 21.125
+    },
+    {
+      "file": "frame-09.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:23.9",
+      "timeLabel": "video 0:23.9",
+      "videoTime": 23.875
+    },
+    {
+      "file": "frame-10.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:26.6",
+      "timeLabel": "video 0:26.6",
+      "videoTime": 26.625
+    },
+    {
+      "file": "frame-11.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:29.4",
+      "timeLabel": "video 0:29.4",
+      "videoTime": 29.375
+    },
+    {
+      "file": "frame-12.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:32.1",
+      "timeLabel": "video 0:32.1",
+      "videoTime": 32.125
+    },
+    {
+      "file": "frame-13.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:34.9",
+      "timeLabel": "video 0:34.9",
+      "videoTime": 34.875
+    },
+    {
+      "file": "frame-14.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:37.6",
+      "timeLabel": "video 0:37.6",
+      "videoTime": 37.625
+    },
+    {
+      "file": "frame-15.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:40.4",
+      "timeLabel": "video 0:40.4",
+      "videoTime": 40.375
+    },
+    {
+      "file": "frame-16.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:43.1",
+      "timeLabel": "video 0:43.1",
+      "videoTime": 43.125
+    },
+    {
+      "file": "frame-17.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:45.9",
+      "timeLabel": "video 0:45.9",
+      "videoTime": 45.875
+    },
+    {
+      "file": "frame-18.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:48.6",
+      "timeLabel": "video 0:48.6",
+      "videoTime": 48.625
+    },
+    {
+      "file": "frame-19.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:51.4",
+      "timeLabel": "video 0:51.4",
+      "videoTime": 51.375
+    },
+    {
+      "file": "frame-20.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:54.1",
+      "timeLabel": "video 0:54.1",
+      "videoTime": 54.125
+    },
+    {
+      "file": "frame-21.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:56.9",
+      "timeLabel": "video 0:56.9",
+      "videoTime": 56.875
+    },
+    {
+      "file": "frame-22.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 0:59.6",
+      "timeLabel": "video 0:59.6",
+      "videoTime": 59.625
+    },
+    {
+      "file": "frame-23.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:02.4",
+      "timeLabel": "video 1:02.4",
+      "videoTime": 62.375
+    },
+    {
+      "file": "frame-24.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:05.1",
+      "timeLabel": "video 1:05.1",
+      "videoTime": 65.125
+    },
+    {
+      "file": "frame-25.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:07.9",
+      "timeLabel": "video 1:07.9",
+      "videoTime": 67.875
+    },
+    {
+      "file": "frame-26.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:10.6",
+      "timeLabel": "video 1:10.6",
+      "videoTime": 70.625
+    },
+    {
+      "file": "frame-27.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:13.4",
+      "timeLabel": "video 1:13.4",
+      "videoTime": 73.375
+    },
+    {
+      "file": "frame-28.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:16.1",
+      "timeLabel": "video 1:16.1",
+      "videoTime": 76.125
+    },
+    {
+      "file": "frame-29.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:18.9",
+      "timeLabel": "video 1:18.9",
+      "videoTime": 78.875
+    },
+    {
+      "file": "frame-30.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:21.6",
+      "timeLabel": "video 1:21.6",
+      "videoTime": 81.625
+    },
+    {
+      "file": "frame-31.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:24.4",
+      "timeLabel": "video 1:24.4",
+      "videoTime": 84.375
+    },
+    {
+      "file": "frame-32.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:27.1",
+      "timeLabel": "video 1:27.1",
+      "videoTime": 87.125
+    },
+    {
+      "file": "frame-33.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:29.9",
+      "timeLabel": "video 1:29.9",
+      "videoTime": 89.875
+    },
+    {
+      "file": "frame-34.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:32.6",
+      "timeLabel": "video 1:32.6",
+      "videoTime": 92.625
+    },
+    {
+      "file": "frame-35.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:35.4",
+      "timeLabel": "video 1:35.4",
+      "videoTime": 95.375
+    },
+    {
+      "file": "frame-36.jpg",
+      "label": "Lightning Events Detected from the ISS, 2017–2023 · 1:38.1",
+      "timeLabel": "video 1:38.1",
+      "videoTime": 98.125
+    }
+  ],
+  "extracted": {
+    "at": "2026-11-13T23:47:53.477Z",
+    "count": 36,
+    "note": "Evenly spaced frames, downscaled; JPEG."
+  },
+  "projectionCheck": {
+    "method": "IoU of frame land (low-saturation pixels above the luminance quantile matching true land share) vs Natural Earth 1:50m land at 360×180, all longitude offsets and N–S flip, rows ±75° lat; lightning pixels ignored",
+    "frames": [
+      "frame-01",
+      "frame-18",
+      "frame-36"
+    ],
+    "iouAtZero": [
+      0.57,
+      0.511,
+      0.559
+    ],
+    "bestOutside10Deg": [
+      0.374,
+      0.354,
+      0.369
+    ],
+    "bestFlipped": [
+      0.112,
+      0.125,
+      0.118
+    ],
+    "bestOffsetDeg": 0,
+    "flipped": false,
+    "date": "2026-11-14"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "svs-5313-night-lights-change",
+  "title": "Change in Night Lights, 2012–2023 (EIC Version)",
+  "description": "NASA Black Marble night lights on a wide flat map: yearly averages from 2012 to 2023, then the change between 2012 and 2023 (purple = more light, orange = less light).",
+  "highlights": [
+    "Brilliant cities against dark land → strong contrast and loudness",
+    "The switch to the change map shifts harmony",
+    "High contrast drives tempo and density"
+  ],
+  "svs": {
+    "id": 5313,
+    "pageUrl": "https://svs.gsfc.nasa.gov/5313/",
+    "pageTitle": "Change in Night Lights between 2012 and 2023 - EIC Version",
+    "releaseDate": "2024-06-14",
+    "sourceFile": "nightlights_flat_series_and_change_wZooms_13_EIC_2160p30_h265.mp4",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005300/a005313/nightlights_flat_series_and_change_wZooms_13_EIC_2160p30_h265.mp4",
+    "sourceWidth": 7680,
+    "sourceHeight": 2160,
+    "sourceDuration": 43.333333,
+    "credits": [
+      "Visualizer: Kel Elkins (USRA)",
+      "Scientist: Zhuosen Wang (University of Maryland)",
+      "Scientist: Miguel Román (Leidos)",
+      "Scientist: Ranjay Shrestha (SSAI)",
+      "Scientist: Srija Chakraborty (USRA)",
+      "Scientist: Virginia Kalb (NASA)"
+    ],
+    "datasets": [
+      "Black Marble: Next Generation"
+    ]
+  },
+  "attribution": "NASA's Scientific Visualization Studio: Kel Elkins (USRA), Zhuosen Wang (University of Maryland), Miguel Román (Leidos)",
+  "projection": null,
+  "georeferenced": false,
+  "legend": null,
+  "width": 1920,
+  "height": 540,
+  "frames": [
+    {
+      "file": "frame-01.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:00.7",
+      "timeLabel": "video 0:00.7",
+      "videoTime": 0.742
+    },
+    {
+      "file": "frame-02.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:01.6",
+      "timeLabel": "video 0:01.6",
+      "videoTime": 1.625
+    },
+    {
+      "file": "frame-03.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:02.5",
+      "timeLabel": "video 0:02.5",
+      "videoTime": 2.508
+    },
+    {
+      "file": "frame-04.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:03.4",
+      "timeLabel": "video 0:03.4",
+      "videoTime": 3.392
+    },
+    {
+      "file": "frame-05.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:04.3",
+      "timeLabel": "video 0:04.3",
+      "videoTime": 4.275
+    },
+    {
+      "file": "frame-06.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:05.2",
+      "timeLabel": "video 0:05.2",
+      "videoTime": 5.158
+    },
+    {
+      "file": "frame-07.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:06.0",
+      "timeLabel": "video 0:06.0",
+      "videoTime": 6.042
+    },
+    {
+      "file": "frame-08.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:06.9",
+      "timeLabel": "video 0:06.9",
+      "videoTime": 6.925
+    },
+    {
+      "file": "frame-09.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:07.8",
+      "timeLabel": "video 0:07.8",
+      "videoTime": 7.808
+    },
+    {
+      "file": "frame-10.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:08.7",
+      "timeLabel": "video 0:08.7",
+      "videoTime": 8.692
+    },
+    {
+      "file": "frame-11.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:09.6",
+      "timeLabel": "video 0:09.6",
+      "videoTime": 9.575
+    },
+    {
+      "file": "frame-12.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:10.5",
+      "timeLabel": "video 0:10.5",
+      "videoTime": 10.458
+    },
+    {
+      "file": "frame-13.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:11.3",
+      "timeLabel": "video 0:11.3",
+      "videoTime": 11.342
+    },
+    {
+      "file": "frame-14.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:12.2",
+      "timeLabel": "video 0:12.2",
+      "videoTime": 12.225
+    },
+    {
+      "file": "frame-15.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:13.1",
+      "timeLabel": "video 0:13.1",
+      "videoTime": 13.108
+    },
+    {
+      "file": "frame-16.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:14.0",
+      "timeLabel": "video 0:14.0",
+      "videoTime": 13.992
+    },
+    {
+      "file": "frame-17.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:14.9",
+      "timeLabel": "video 0:14.9",
+      "videoTime": 14.875
+    },
+    {
+      "file": "frame-18.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:15.8",
+      "timeLabel": "video 0:15.8",
+      "videoTime": 15.758
+    },
+    {
+      "file": "frame-19.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:16.6",
+      "timeLabel": "video 0:16.6",
+      "videoTime": 16.642
+    },
+    {
+      "file": "frame-20.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:17.5",
+      "timeLabel": "video 0:17.5",
+      "videoTime": 17.525
+    },
+    {
+      "file": "frame-21.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:18.4",
+      "timeLabel": "video 0:18.4",
+      "videoTime": 18.408
+    },
+    {
+      "file": "frame-22.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:19.3",
+      "timeLabel": "video 0:19.3",
+      "videoTime": 19.292
+    },
+    {
+      "file": "frame-23.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:20.2",
+      "timeLabel": "video 0:20.2",
+      "videoTime": 20.175
+    },
+    {
+      "file": "frame-24.jpg",
+      "label": "Change in Night Lights, 2012–2023 (EIC Version) · 0:21.1",
+      "timeLabel": "video 0:21.1",
+      "videoTime": 21.058
+    }
+  ],
+  "extracted": {
+    "at": "2026-11-13T23:32:43.544Z",
+    "count": 24,
+    "note": "Evenly spaced frames, downscaled; JPEG."
+  }
+}

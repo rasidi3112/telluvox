@@ -1,0 +1,55 @@
+{
+  "id": "svs-5669-geos-aerosols",
+  "title": "GEOS Aerosols (2025)",
+  "description": "A single moment (19 Aug 2025, 20:00 UTC) of smoke, dust, sea salt and other particles from the GEOS model, each type in its own colour.",
+  "highlights": [
+    "Each aerosol colour becomes its own pitch",
+    "Explore the image by touch to hear each region",
+    "A still image: the phrase loops"
+  ],
+  "svs": {
+    "id": 5669,
+    "pageUrl": "https://svs.gsfc.nasa.gov/5669/",
+    "pageTitle": "GEOS Aerosols (2025)",
+    "releaseDate": "2026-08-10",
+    "sourceFile": "Aerosols_2025-08-19T20_00_00_1920x1080.png",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005669/Aerosols_2025-08-19T20_00_00_1920x1080.png",
+    "sourceWidth": 1920,
+    "sourceHeight": 1080,
+    "sourceDuration": null,
+    "credits": [
+      "Data visualizer: Joseph V. Ardizzone (NASA/GSFC)",
+      "Data visualizer: Helen-Nicole Kostis (Science and Technology Corporation)",
+      "Scientist: Lesley Ott (NASA/GSFC)"
+    ],
+    "datasets": [
+      "GEOS Forward Processing 2Km Replay"
+    ]
+  },
+  "attribution": "NASA's Scientific Visualization Studio: Joseph V. Ardizzone (NASA/GSFC), Helen-Nicole Kostis (Science and Technology Corporation), Lesley Ott (NASA/GSFC)",
+  "projection": null,
+  "georeferenced": false,
+  "legend": {
+    "image": "legend.png",
+    "quantity": "Aerosol type",
+    "units": null,
+    "categorical": true,
+    "svsNote": "Colour indicates the type of aerosol particle.",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005669/Aerosols_cbar.png"
+  },
+  "width": 1600,
+  "height": 900,
+  "frames": [
+    {
+      "file": "frame-01.jpg",
+      "label": "GEOS Aerosols (2025)",
+      "timeLabel": "still image",
+      "videoTime": null
+    }
+  ],
+  "extracted": {
+    "at": "2026-11-13T23:28:27.620Z",
+    "count": 1,
+    "note": "Evenly spaced frames, downscaled; JPEG."
+  }
+}

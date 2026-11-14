@@ -1,0 +1,258 @@
+{
+  "id": "svs-3912-sea-surface-currents",
+  "title": "Global Sea Surface Currents and Temperature",
+  "description": "Ocean surface currents from the ECCO2 model on a flat global map, with each flow line coloured by sea surface temperature.",
+  "highlights": [
+    "Warm equatorial bands lift the melody",
+    "Swirling eddies add texture and notes",
+    "A global map: drapes onto the globe"
+  ],
+  "svs": {
+    "id": 3912,
+    "pageUrl": "https://svs.gsfc.nasa.gov/3912/",
+    "pageTitle": "Global Sea Surface Currents and Temperature",
+    "releaseDate": "2012-03-16",
+    "sourceFile": "ecco2_sst_flow.mp4",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003912/ecco2_sst_flow.mp4",
+    "sourceWidth": 2048,
+    "sourceHeight": 1024,
+    "sourceDuration": 66.7,
+    "credits": [
+      "Animator: Greg Shirah (NASA/GSFC)",
+      "Animator: Horace Mitchell (NASA/GSFC)",
+      "Animator: Eric Sokolowsky (Global Science and Technology, Inc.)",
+      "Project support: Eric Sokolowsky (Global Science and Technology, Inc.)",
+      "Producer: Michael Starobin (HTSI)",
+      "Scientist: Hong Zhang (UCLA)",
+      "Scientist: Dimitris Menemenlis (NASA/JPL CalTech)"
+    ],
+    "datasets": [
+      "GTOPO30 Topography and Bathymetry",
+      "ECCO2 High Resolution Ocean and Sea Ice Model"
+    ]
+  },
+  "attribution": "NASA's Scientific Visualization Studio: Greg Shirah (NASA/GSFC), Horace Mitchell (NASA/GSFC), Eric Sokolowsky (Global Science and Technology, Inc.)",
+  "projection": "equirectangular",
+  "georeferenced": true,
+  "legend": {
+    "image": "legend.png",
+    "quantity": "Sea surface temperature",
+    "units": "°C",
+    "min": 0,
+    "max": 32,
+    "svsNote": "Blue is 0 °C, green 10–20 °C, yellow about 25 °C, red 32 °C.",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003912/sst_ecco2_cbar.png",
+    "strip": {
+      "x0": 0.048,
+      "y0": 0.32,
+      "x1": 0.939,
+      "y1": 0.7
+    },
+    "match": "chroma"
+  },
+  "width": 2048,
+  "height": 1024,
+  "frames": [
+    {
+      "file": "frame-01.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:01.6",
+      "timeLabel": "video 0:01.6",
+      "videoTime": 1.595
+    },
+    {
+      "file": "frame-02.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:03.8",
+      "timeLabel": "video 0:03.8",
+      "videoTime": 3.785
+    },
+    {
+      "file": "frame-03.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:06.0",
+      "timeLabel": "video 0:06.0",
+      "videoTime": 5.975
+    },
+    {
+      "file": "frame-04.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:08.2",
+      "timeLabel": "video 0:08.2",
+      "videoTime": 8.165
+    },
+    {
+      "file": "frame-05.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:10.4",
+      "timeLabel": "video 0:10.4",
+      "videoTime": 10.355
+    },
+    {
+      "file": "frame-06.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:12.5",
+      "timeLabel": "video 0:12.5",
+      "videoTime": 12.545
+    },
+    {
+      "file": "frame-07.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:14.7",
+      "timeLabel": "video 0:14.7",
+      "videoTime": 14.735
+    },
+    {
+      "file": "frame-08.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:16.9",
+      "timeLabel": "video 0:16.9",
+      "videoTime": 16.925
+    },
+    {
+      "file": "frame-09.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:19.1",
+      "timeLabel": "video 0:19.1",
+      "videoTime": 19.115
+    },
+    {
+      "file": "frame-10.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:21.3",
+      "timeLabel": "video 0:21.3",
+      "videoTime": 21.305
+    },
+    {
+      "file": "frame-11.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:23.5",
+      "timeLabel": "video 0:23.5",
+      "videoTime": 23.495
+    },
+    {
+      "file": "frame-12.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:25.7",
+      "timeLabel": "video 0:25.7",
+      "videoTime": 25.685
+    },
+    {
+      "file": "frame-13.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:27.9",
+      "timeLabel": "video 0:27.9",
+      "videoTime": 27.875
+    },
+    {
+      "file": "frame-14.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:30.1",
+      "timeLabel": "video 0:30.1",
+      "videoTime": 30.065
+    },
+    {
+      "file": "frame-15.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:32.3",
+      "timeLabel": "video 0:32.3",
+      "videoTime": 32.255
+    },
+    {
+      "file": "frame-16.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:34.4",
+      "timeLabel": "video 0:34.4",
+      "videoTime": 34.445
+    },
+    {
+      "file": "frame-17.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:36.6",
+      "timeLabel": "video 0:36.6",
+      "videoTime": 36.635
+    },
+    {
+      "file": "frame-18.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:38.8",
+      "timeLabel": "video 0:38.8",
+      "videoTime": 38.825
+    },
+    {
+      "file": "frame-19.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:41.0",
+      "timeLabel": "video 0:41.0",
+      "videoTime": 41.015
+    },
+    {
+      "file": "frame-20.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:43.2",
+      "timeLabel": "video 0:43.2",
+      "videoTime": 43.205
+    },
+    {
+      "file": "frame-21.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:45.4",
+      "timeLabel": "video 0:45.4",
+      "videoTime": 45.395
+    },
+    {
+      "file": "frame-22.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:47.6",
+      "timeLabel": "video 0:47.6",
+      "videoTime": 47.585
+    },
+    {
+      "file": "frame-23.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:49.8",
+      "timeLabel": "video 0:49.8",
+      "videoTime": 49.775
+    },
+    {
+      "file": "frame-24.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:52.0",
+      "timeLabel": "video 0:52.0",
+      "videoTime": 51.965
+    },
+    {
+      "file": "frame-25.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:54.2",
+      "timeLabel": "video 0:54.2",
+      "videoTime": 54.155
+    },
+    {
+      "file": "frame-26.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:56.3",
+      "timeLabel": "video 0:56.3",
+      "videoTime": 56.345
+    },
+    {
+      "file": "frame-27.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 0:58.5",
+      "timeLabel": "video 0:58.5",
+      "videoTime": 58.535
+    },
+    {
+      "file": "frame-28.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 1:00.7",
+      "timeLabel": "video 1:00.7",
+      "videoTime": 60.725
+    },
+    {
+      "file": "frame-29.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 1:02.9",
+      "timeLabel": "video 1:02.9",
+      "videoTime": 62.915
+    },
+    {
+      "file": "frame-30.jpg",
+      "label": "Global Sea Surface Currents and Temperature · 1:05.1",
+      "timeLabel": "video 1:05.1",
+      "videoTime": 65.105
+    }
+  ],
+  "extracted": {
+    "at": "2026-11-13T23:32:29.480Z",
+    "count": 30,
+    "note": "Evenly spaced frames, downscaled; JPEG."
+  },
+  "projectionCheck": {
+    "method": "IoU of frame land (grey) vs Natural Earth 1:50m land at 360×180, all longitude offsets −180…179° and N–S flip, rows ±75° lat",
+    "frames": [
+      "frame-01",
+      "frame-15",
+      "frame-30"
+    ],
+    "iouAtZero": [
+      0.941,
+      0.942,
+      0.943
+    ],
+    "bestOffsetDeg": 0,
+    "flipped": false,
+    "date": "2026-11-14"
+  }
+}
